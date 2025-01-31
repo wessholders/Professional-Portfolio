@@ -19,4 +19,9 @@ Most hunters, myself included, watch the weather of territories to the north of 
 ### Data source
 For weather data, I utilized the [open weather map API](https://openweathermap.org/api), as they offer a free use as long as you make less than 1,000 API calls per day.
 
-For the lunar cycle data, I utilized a python library called [Astral](https://astral.readthedocs.io/en/latest/). This is also a good source for free lunar data.
+For the lunar cycle data, I utilized a python package called [Astral](https://astral.readthedocs.io/en/latest/). This is also a good source for free lunar data.
+
+### End product
+Ultimately I used this data to create a an excel workbook, where I record relevant weather information for location in the central fly way.
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://www.onxmaps.com/wp-content/uploads/sites/15/2021/10/Artboard-1-100.jpg) "North American Flyway Map")
+
