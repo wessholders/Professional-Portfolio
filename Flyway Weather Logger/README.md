@@ -17,3 +17,4 @@ Most hunters, myself included, watch the weather of territories to the north of 
 - requests
 
 ### Data source
+For this project I utilized the [open weather map API](https://openweathermap.org/api), as they offer a free use as long as you make less than 1,000 API calls per day.
