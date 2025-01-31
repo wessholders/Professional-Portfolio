@@ -6,3 +6,5 @@ This of course leads to the conclusion that I _**need**_ to schedule a python sc
 ### So what is the significance of weather data and duck hunting?
 As most of us probably know, waterfowl are migratory birds. During the warmer months in North America, these waterfowl live in the far northern reaches of the United States, Canada, and even Russia; where they will raise their young. As the weather turns colder, these birds will prepare to migrate south to all areas of the United States, Mexico, and further south. There are several known and suspected triggers that tell waterfowl is time to migrate, many of those being related to the weather. These can be things such as temperature, wind direction, wind speed, barometric pressure, and even the moon phase.
 
+Most hunters, myself included, watch the weather of territories to the north of them, but that can become cumbersome. Living as far south as I do, I have lots of weather to keep up with. That is what ultimately lead me to write this Flyway Weather Logging script.
+
