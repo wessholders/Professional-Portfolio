@@ -17,4 +17,6 @@ Most hunters, myself included, watch the weather of territories to the north of 
 - requests
 
 ### Data source
-For this project I utilized the [open weather map API](https://openweathermap.org/api), as they offer a free use as long as you make less than 1,000 API calls per day.
+For weather data, I utilized the [open weather map API](https://openweathermap.org/api), as they offer a free use as long as you make less than 1,000 API calls per day.
+
+For the lunar cycle data, I utilized a python library called [Astral](https://astral.readthedocs.io/en/latest/). This is also a good source for free lunar data.
