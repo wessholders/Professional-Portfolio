@@ -1,3 +1,3 @@
 # Flyway Weather Tracker
-In this repository I will showcase various projects, tools, products related to coding, GIS, and my daily life.
+Those who know me, know that I am an avid outdoorsman, with waterfowl hunting being my drink of choice. Those that know me even better, know that I am a data nerd.
 
