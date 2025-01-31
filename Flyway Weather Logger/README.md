@@ -3,3 +3,5 @@ Those who know me, know that I am an avid outdoorsman, with waterfowl hunting be
 
 This of course leads to the conclusion that I _**need**_ to schedule a python script to help me track weather data for duck hunting.
 
+## So what is the significance of weather data and duck hunting?
+
