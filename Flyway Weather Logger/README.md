@@ -9,7 +9,7 @@ As most of us probably know, waterfowl are migratory birds. During the warmer mo
 Most hunters, myself included, watch the weather of territories to the north of them, but that can become cumbersome. Living as far south as I do, I have lots of weather to keep up with. That is what ultimately lead me to write this Flyway Weather Logging script.
 
 ### Python Modules used
-- Datetimes
+- Datetime
 - Pandas
 - pytz
 - openpyxl
