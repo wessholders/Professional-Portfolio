@@ -8,7 +8,7 @@ Using tidally referenced DEMs created by NOAA, I plotted possible innundation su
 
 These innundation surfaces gave me insight to what areas, industries, cities, and infrastructure would be impacted most by SLR.
 
-Please feel free to read [Impacts of Sea Level Rise to the Houston Metroplex]()
+Please feel free to read [Impacts of Sea Level Rise to the Houston, Texas Metroplex](https://github.com/wessholders/Professional-Portfolio/blob/main/Professional%20Paper/Impacts%20of%20SLR%20on%20the%20Houston%20Metroplex.pdf)
 ##### References:
 
 ###### Liu, Y., Li, J., Fasullo, J., & Galloway, D. L. (2020). Land subsidence contributions to relative sea level rise at tide gauge Galveston Pier 21, Texas. Scientific reports, 10(1), 1-11. 
