@@ -1,2 +1,3 @@
 # MS of Marine Resource Management Professional Paper
-Come learn about the details of how I went about reseraching for my professional paper.
+
+For my end of degree Professional Paper, I was tasked with developing a research topic and paper. I decided to take a look at how Sea Level Rise (SLR) could impact the Houston Metroplex.
