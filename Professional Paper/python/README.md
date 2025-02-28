@@ -26,4 +26,4 @@ Five Tools:
 - - A tidally connected inundation raster
 - - A low-lying inundation raster
 - [LowLying.pyt](https://github.com/wessholders/Professional-Portfolio/blob/main/Professional%20Paper/python/LowLying.pyt) is the same process as SLRMapper.pyt, but only creates a low-lying inundation surface.
-- [TidallyConnected.pyt]() is the same process as SLRMapper.pyt, but only creates a tidally connected inundation surface.
+- [TidallyConnected.pyt](https://github.com/wessholders/Professional-Portfolio/blob/main/Professional%20Paper/python/TidallyConnected.pyt) is the same process as SLRMapper.pyt, but only creates a tidally connected inundation surface.
