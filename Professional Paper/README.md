@@ -9,8 +9,8 @@ Using tidally referenced DEMs created by NOAA, I plotted possible innundation su
 These innundation surfaces gave me insight to what areas, industries, cities, and infrastructure would be impacted most by SLR.
 
 
-#####References:
+##### References:
 
-######Liu, Y., Li, J., Fasullo, J., & Galloway, D. L. (2020). Land subsidence contributions to relative sea level rise at tide gauge Galveston Pier 21, Texas. Scientific reports, 10(1), 1-11. 
+####### Liu, Y., Li, J., Fasullo, J., & Galloway, D. L. (2020). Land subsidence contributions to relative sea level rise at tide gauge Galveston Pier 21, Texas. Scientific reports, 10(1), 1-11. 
 
-######National Oceanic and Atmospheric Association (2022) Global and Regional Sea Level Rise Scenarios for the United States
+####### National Oceanic and Atmospheric Association (2022) Global and Regional Sea Level Rise Scenarios for the United States
