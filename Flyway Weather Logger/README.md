@@ -23,5 +23,4 @@ For the lunar cycle data, I utilized a python package called [Astral](https://as
 
 ### End product
 Ultimately I used this data to create a an excel workbook, where I record relevant weather information for location in the central fly way.
-[//]:![North American Flyway Map](https://www.onxmaps.com/wp-content/uploads/sites/15/2021/10/Artboard-1-100.jpg "North American Waterfowl Flyway Map")
 
