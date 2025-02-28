@@ -25,5 +25,5 @@ Five Tools:
 - [SLRMapper.pyt](https://github.com/wessholders/Professional-Portfolio/blob/main/Professional%20Paper/python/SLR_mapper.pyt) takes a SLR Projection value and the connectivity value to create two inundation rasters:
 - - A tidally connected inundation raster
 - - A low-lying inundation raster
-- [LowLying.pyt]() is the same process as SLRMapper.pyt, but only creates a low-lying inundation surface.
+- [LowLying.pyt](https://github.com/wessholders/Professional-Portfolio/blob/main/Professional%20Paper/python/LowLying.pyt) is the same process as SLRMapper.pyt, but only creates a low-lying inundation surface.
 - [TidallyConnected.pyt]() is the same process as SLRMapper.pyt, but only creates a tidally connected inundation surface.
