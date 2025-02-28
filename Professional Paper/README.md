@@ -11,6 +11,6 @@ These innundation surfaces gave me insight to what areas, industries, cities, an
 
 ##### References:
 
-####### Liu, Y., Li, J., Fasullo, J., & Galloway, D. L. (2020). Land subsidence contributions to relative sea level rise at tide gauge Galveston Pier 21, Texas. Scientific reports, 10(1), 1-11. 
+###### Liu, Y., Li, J., Fasullo, J., & Galloway, D. L. (2020). Land subsidence contributions to relative sea level rise at tide gauge Galveston Pier 21, Texas. Scientific reports, 10(1), 1-11. 
 
-####### National Oceanic and Atmospheric Association (2022) Global and Regional Sea Level Rise Scenarios for the United States
+###### National Oceanic and Atmospheric Association (2022) Global and Regional Sea Level Rise Scenarios for the United States
