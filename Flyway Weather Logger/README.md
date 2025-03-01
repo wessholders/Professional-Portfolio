@@ -22,5 +22,5 @@ For weather data, I utilized the [open weather map API](https://openweathermap.o
 For the lunar cycle data, I utilized a python package called [Astral](https://astral.readthedocs.io/en/latest/). This is also a good source for free lunar data.
 
 ### End product
-Ultimately I used this data to create a an [excel workbook](https://github.com/wessholders/Professional-Portfolio/blob/main/Flyway%20Weather%20Logger/Flyway_Weather_Log.xlsx), where I record relevant weather information for location in the central fly way.
+Ultimately I used this data to create an [excel workbook](https://github.com/wessholders/Professional-Portfolio/blob/main/Flyway%20Weather%20Logger/Flyway_Weather_Log.xlsx), where I record relevant weather information for location in the central fly way.
 
