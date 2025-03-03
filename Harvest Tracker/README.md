@@ -3,7 +3,7 @@ This is a harvest tracker I use to track the waterfowl harvest of my group every
 
 **Link to project:** [Harvest Tracker](https://docs.google.com/spreadsheets/d/1CZLxa8DK2NTA8w0svw1aet9t8DRr7mdFRAylNr3ZQXM/edit?usp=sharing)
 
-![Alt](https://github.com/wessholders/Professional-Portfolio/blob/main/Harvest%20Tracker/Harvest_Tracker_1.png?raw=true)
+![Alt](https://github.com/wessholders/Professional-Portfolio/blob/main/Harvest%20Tracker/images/Harvest_Tracker_1.png?raw=true)
 
 
 
