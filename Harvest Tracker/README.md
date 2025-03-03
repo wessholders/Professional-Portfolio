@@ -2,7 +2,8 @@
 This is a harvest tracker I use to track the waterfowl harvest of my group every year. It has various columns for tracking hunters, species, sex ratio of harvest, and other meteorlogical variables. It has a second sheet that provides a roll-up of relevant metrics. The below link includes some dummy rows to demonstrate how it functions. Feel free to make a copy and track your own harvest stats.
 
 **Link to project:** [Harvest Tracker](https://docs.google.com/spreadsheets/d/1CZLxa8DK2NTA8w0svw1aet9t8DRr7mdFRAylNr3ZQXM/edit?usp=sharing)
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
+![Harvest Tracker Screenshot](Harvest Tracker/images/Harvest_Tracker_1.png?raw=true "Harvest Tracker")
 
 
 
