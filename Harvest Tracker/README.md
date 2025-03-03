@@ -1,12 +1,10 @@
 # Harvest Tracker
 This is a harvest tracker I use to track the waterfowl harvest of my group every year. It has various columns for tracking hunters, species, sex ratio of harvest, and other meteorlogical variables. It has a second sheet that provides a roll-up of relevant metrics.
 
-[Harvest Tracker](https://docs.google.com/spreadsheets/d/1CZLxa8DK2NTA8w0svw1aet9t8DRr7mdFRAylNr3ZQXM/edit?usp=sharing)
+
+**Link to project:** [Harvest Tracker](https://docs.google.com/spreadsheets/d/1CZLxa8DK2NTA8w0svw1aet9t8DRr7mdFRAylNr3ZQXM/edit?usp=sharing)
 
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
-![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 
