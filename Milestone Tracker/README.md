@@ -3,7 +3,7 @@ This is a milestone tracker. I use a similar tracker to track personal and busin
 
 **Link to project:** [Milestone Tracker](https://docs.google.com/spreadsheets/d/1KlaT5_7mM8hJa1g3eZ2QefZgmyYuZbgnqYW3Mo0XzDs/edit?usp=sharing)
 
-![Alt](https://github.com/wessholders/Professional-Portfolio/blob/main/Harvest%20Tracker/images/Harvest_Tracker_1.png?raw=true)
+![Milestone Tracker](https://github.com/wessholders/Professional-Portfolio/blob/3d94aa14e47fafce4ff45c6fae002983964f9f1f/Milestone%20Tracker/images/Milestone_Tracker_1.png)
 
 
 
