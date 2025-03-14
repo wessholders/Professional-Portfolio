@@ -15,4 +15,4 @@ I am an avid outdoorsman who stays busy in the field all throughout the season. 
 Besides hunting and fishing, you can find me playing disc golf or hiking.
 
 ## Photo Gallery
-If youwould like to see some photos I have taken, please check out my [gallery]()
+If youwould like to see some photos I have taken, please check out my [gallery](https://github.com/wessholders/Professional-Portfolio/tree/main/Gallery)
