@@ -1,5 +1,5 @@
 # Professional-Portfolio
-In this repository I will showcase various projects, tools, products related to coding, GIS, and my daily life.
+The nature of my work does not allow me to post many projects straight from work in this repository, but I will showcase various projects, tools, products related to coding, GIS, and my daily life. 
 
 ## About Me
 Hello, my name is Wes Sholders. I am a geospatial proffessional working at the United States Army Corps of Engineers (USACE).
