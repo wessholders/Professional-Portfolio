@@ -13,3 +13,6 @@ Working at USACE has been great due to the wide range of work that falls under o
 I am an avid outdoorsman who stays busy in the field all throughout the season. In the warmer months, you can usually find me fishing or crabbing, counting down the days until hunting season opens. Once Dove opener happens, I will be either dove or duck hunting somewhere in Texas. Duck hunting is my true passion and I have been able to use some of my GIS skills to better scout and find new hunting spots.
 
 Besides hunting and fishing, you can find me playing disc golf or hiking.
+
+## Photo Gallery
+If youwould like to see some photos I have taken, please check out my [gallery]()
