@@ -1,6 +1,6 @@
 # Bingo Card Generator
 
-This (Python script)[https://github.com/wessholders/Professional-Portfolio/blob/main/Bingo%20Card%20Generator/Bingo_Maker_Github.py] generates customizable bingo cards in Excel format using prompts from an input Excel file. It creates multiple bingo cards, formats them with images and text, and saves them as an Excel workbook.
+This [Python script](https://github.com/wessholders/Professional-Portfolio/blob/main/Bingo%20Card%20Generator/Bingo_Maker_Github.py) generates customizable bingo cards in Excel format using prompts from an input Excel file. It creates multiple bingo cards, formats them with images and text, and saves them as an Excel workbook.
 
 ## Features
 
