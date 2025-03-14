@@ -19,4 +19,21 @@ Ensure you have Python installed along with the following dependencies:
 
 ```bash
 pip install pandas xlsxwriter
+```
+# Usage
+
+## 1. Prepare Input File
+
+Create an Excel file (Input.xlsx) with a list of bingo prompts in the first column.
+Save it in the designated input folder.
+
+## 2. Modify Paths and Settings
+Update the script with the correct file paths.
+
+## 3. Run the Script
+
+## 4. Check Output
+
+The script generates an Excel file in the specified output folder.
+Each sheet in the workbook represents a unique bingo card.
 
